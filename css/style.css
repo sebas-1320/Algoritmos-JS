@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    text-align: center;
+    padding: 120px 0;
+    background: #000000;
+    min-height: 100vh;
+}
+
+h1{
+    color: #8c00ff;
+    font-size: 60px;
+}
+h2{
+    color: #4d00a5;
+    font-size: 50px;
+    margin: 20px 0;
+
+}
+p{
+    color: #8c00ff;
+    font-size: 40px;
+}
+.botones{
+    width: 80%;
+    margin: 10px auto;
+
+}
+button{
+    padding: 11px 30px;
+    background: transparent;
+    border: 2px solid #7145aa;
+    border-radius: 15px;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 10px;
+    transition: .4s;
+}
+button:hover{
+    background: rgb(111, 0, 255);;
+    color: black;
+    border-radius: 30px;
+}
